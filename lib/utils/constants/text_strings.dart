@@ -16,7 +16,7 @@ class TTexts{
   //Xác thực 
   static const String firstName = "First Name";
   static const String lastName = "Last Name";
-  static const String email ="E-mail";
+  static const String email ="E-Mail";
   static const String password = "Password";
   static const String newPassword = "New Password";
   static const String userName = "Username";
@@ -29,6 +29,7 @@ class TTexts{
   static const String orSignUpWith = "or sign up with";
   static const String isAgreeTo = "I argee to";
   static const String privacyPolicy = "Privacy Policy";
+  static const String and = "and";
   static const String termsOfUse = "Terms Of Use";
   static const String verificationCode = "verificationCode";
   static const String resendEmail = "Resend Email";

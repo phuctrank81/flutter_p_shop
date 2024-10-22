@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_p_shop/features/authentication/controllers.onboarding/onboarding_controller.dart';
-import 'package:flutter_p_shop/features/authentication/screens/widgets/onboarding_dot_naviagtion.dart';
-import 'package:flutter_p_shop/features/authentication/screens/widgets/onboarding_next_page.dart';
+import 'package:flutter_p_shop/features/authentication/screens/onboarding/onboarding_dot_naviagtion.dart';
+import 'package:flutter_p_shop/features/authentication/screens/onboarding/onboarding_next_page.dart';
 import 'package:flutter_p_shop/utils/constants/colors.dart';
 import 'package:flutter_p_shop/utils/constants/image_strings.dart';
 import 'package:flutter_p_shop/utils/constants/sizes.dart';
