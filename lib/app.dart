@@ -23,3 +23,7 @@ class _AppState extends State<App> {  // Create the State class
     );
   }
 }
+
+void main(){
+  runApp(const App());
+}

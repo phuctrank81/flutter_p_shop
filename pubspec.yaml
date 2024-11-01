@@ -29,10 +29,12 @@ dev_dependencies:
 flutter:
   uses-material-design: true
   assets:
-    - assets/logo/
-    - assets/icons/
-    - assets/images/
+    # - assets/icons
     - assets/images/on_boarding_images/
+    - assets/images/animations/receive-email.png
+    - assets/images/logo/facebook.png
+    - assets/images/logo/google.png
+    - assets/images/logo/t-store-light-logo.png
   fonts:
     - family: Poppins
       fonts:

@@ -1,14 +1,11 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_p_shop/common/styles/widgets.login_signup/form_divider.dart';
 import 'package:flutter_p_shop/common/styles/widgets.login_signup/social_buttons.dart';
-import 'package:flutter_p_shop/features/authentication/screens/signup.widgets/signup_form.dart';
-import 'package:flutter_p_shop/utils/constants/colors.dart';
+import 'package:flutter_p_shop/features/authentication/screens/signup/widgets/signup_form.dart';
 import 'package:flutter_p_shop/utils/constants/sizes.dart';
 import 'package:flutter_p_shop/utils/constants/text_strings.dart';
-import 'package:flutter_p_shop/utils/helpers/helper_functions.dart';
 import 'package:get/get.dart';
-import 'package:get/get_connect/http/src/utils/utils.dart';
-import 'package:iconsax_flutter/iconsax_flutter.dart';
+
 
 class SignupScreen extends StatelessWidget {
   const SignupScreen({super.key});
