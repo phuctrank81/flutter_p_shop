@@ -35,6 +35,11 @@ flutter:
     - assets/images/logo/facebook.png
     - assets/images/logo/google.png
     - assets/images/logo/t-store-light-logo.png
+    - assets/images/categories/icons8-bowling-64.png
+    - assets/images/categories/icons8-dummy-64.png
+    - assets/images/categories/icons8-cosmetics-64.png
+    - assets/images/categories/icons8-shoes-64.png
+    - assets/images/categories
   fonts:
     - family: Poppins
       fonts:

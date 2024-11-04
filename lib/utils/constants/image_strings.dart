@@ -13,4 +13,16 @@ class TImages {
 
   static const String deliveredEmailIllustration = "assets/images/animations/receive-email.png";
   static const String staticSuccessIllustration = "assets/images/animations/receive-email.png";
+
+  // -- Category Icons
+  static const String sportIcon = "assets/images/categories/icons8-bowling-64.png";
+  static const String clothIcon = "assets/images/categories/icons8-dummy-64.png";
+  static const String shoeIcon = "assets/images/categories/icons8-shoes-64.png";
+  static const String cosmeticsIcon = "assets/images/categories/icons8-cosmetics-64.png";
+  static const String animalIcon = "assets/images/categories/icons8-dog-heart-64.png";
+  static const String toyIcon = "assets/images/categories/icons8-toy-car-64.png";
+  static const String furnitureIcon = "assets/images/categories/icons8-dining-chair-64.png";
+  static const String jewleryIcon = "assets/images/categories/icons8-sparkling-diamond-64.png";
+  static const String electronicsIcon = "assets/images/categories/icons8-smartphone-64.png";
+  
 }
