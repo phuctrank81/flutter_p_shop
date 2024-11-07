@@ -39,7 +39,7 @@ flutter:
     - assets/images/categories/icons8-dummy-64.png
     - assets/images/categories/icons8-cosmetics-64.png
     - assets/images/categories/icons8-shoes-64.png
-    - assets/images/categories
+    
   fonts:
     - family: Poppins
       fonts:
