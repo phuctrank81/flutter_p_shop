@@ -18,7 +18,7 @@ class _AppState extends State<App> {  // Create the State class
       themeMode: ThemeMode.system,
       theme: TAppTheme.lightTheme,
       darkTheme: TAppTheme.darkTheme,
-      home: const OnboardingScreen(       
+      home: const OnboardingScreen(
       ),
     );
   }
