@@ -20,6 +20,7 @@ dependencies:
   google_fonts: ^6.2.1
   flutter_native_splash: ^2.4.1
   smooth_page_indicator: ^1.2.0+3
+  carousel_slider: ^5.0.0   
 
 dev_dependencies:
   flutter_test:
@@ -39,6 +40,9 @@ flutter:
     - assets/images/categories/icons8-dummy-64.png
     - assets/images/categories/icons8-cosmetics-64.png
     - assets/images/categories/icons8-shoes-64.png
+    - assets/images/banners/promo-banner-1.jpg
+    - assets/images/banners/promo-banner-2.jpg
+    - assets/images/banners/promo-banner-3.jpg
     
   fonts:
     - family: Poppins
