@@ -43,6 +43,7 @@ flutter:
     - assets/images/banners/promo-banner-1.jpg
     - assets/images/banners/promo-banner-2.jpg
     - assets/images/banners/promo-banner-3.jpg
+    - assets/images/products/men-shoes.jpg
     
   fonts:
     - family: Poppins
