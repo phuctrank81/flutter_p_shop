@@ -25,10 +25,10 @@ class TTermsAndConditionCheckbox extends StatelessWidget {
         ),
         Text.rich(TextSpan(children: [
           TextSpan(
-              text: '${TTexts.isAgreeTo}',
+              text: TTexts.isAgreeTo,
               style: Theme.of(context).textTheme.bodySmall),
           TextSpan(
-              text: '${TTexts.privacyPolicy}',
+              text: TTexts.privacyPolicy,
               style: Theme.of(context)
                   .textTheme
                   .bodyMedium!
@@ -41,10 +41,10 @@ class TTermsAndConditionCheckbox extends StatelessWidget {
                           ? TColors.white
                           : TColors.primary)),
           TextSpan(
-              text: '${TTexts.and}',
+              text: TTexts.and,
               style: Theme.of(context).textTheme.bodySmall),
           TextSpan(
-              text: '${TTexts.termsOfUse}',
+              text: TTexts.termsOfUse,
               style: Theme.of(context)
                   .textTheme
                   .bodyMedium!

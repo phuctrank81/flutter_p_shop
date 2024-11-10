@@ -4,7 +4,6 @@ import 'package:flutter_p_shop/common/widgets/images/t_rounded_image.dart';
 import 'package:flutter_p_shop/features/authentication/controllers/home_controller.dart';
 import 'package:flutter_p_shop/features/authentication/screens/home/widgets/custom_shapes/container/circular_container.dart';
 import 'package:flutter_p_shop/utils/constants/colors.dart';
-import 'package:flutter_p_shop/utils/constants/image_strings.dart';
 import 'package:flutter_p_shop/utils/constants/sizes.dart';
 import 'package:get/get.dart';
 

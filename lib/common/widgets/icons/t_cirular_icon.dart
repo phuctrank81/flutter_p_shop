@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:flutter_p_shop/utils/constants/colors.dart';
 import 'package:flutter_p_shop/utils/constants/sizes.dart';
 import 'package:flutter_p_shop/utils/helpers/helper_functions.dart';
-import 'package:iconsax_flutter/iconsax_flutter.dart';
 
 class TCircularIcon extends StatelessWidget {
   // A custom Circular Icon widget with a background color

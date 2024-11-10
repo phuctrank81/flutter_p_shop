@@ -2,15 +2,12 @@ import 'package:flutter/material.dart';
 import 'package:flutter_p_shop/features/authentication/controllers/onboarding_controller.dart';
 import 'package:flutter_p_shop/features/authentication/screens/onboarding/onboarding_dot_naviagtion.dart';
 import 'package:flutter_p_shop/features/authentication/screens/onboarding/onboarding_next_page.dart';
-import 'package:flutter_p_shop/utils/constants/colors.dart';
 import 'package:flutter_p_shop/utils/constants/image_strings.dart';
 import 'package:flutter_p_shop/utils/constants/sizes.dart';
 import 'package:flutter_p_shop/utils/constants/text_strings.dart';
 import 'package:flutter_p_shop/utils/device/device_utility.dart';
 import 'package:flutter_p_shop/utils/helpers/helper_functions.dart';
 import 'package:get/get.dart';
-import 'package:iconsax_flutter/iconsax_flutter.dart';
-import 'package:smooth_page_indicator/smooth_page_indicator.dart';
 
 class OnboardingScreen extends StatelessWidget {
   const OnboardingScreen({super.key});
@@ -43,9 +40,9 @@ class OnboardingScreen extends StatelessWidget {
             ],
           ),
           const OnBoadringSkip(),
-          OnBoardingDotNavigation(),
+          const OnBoardingDotNavigation(),
 
-          OnBoardingNextButton()
+          const OnBoardingNextButton()
         ],
       ),
     );
